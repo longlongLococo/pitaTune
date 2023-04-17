@@ -64,8 +64,11 @@ A: エディターだけ、オートメーションだけといった使用法�
 ## Q 値が競合するとどうなるの？
 A: 途中の計算は同期しているため致命的な不具合は起きません。しかし周波数テーブルの値がちぐはぐになる可能性があるので気を付けて使ってねって感じです。
 
+## Q: Logic Proで使わせて？
+A: ソースコード自体はクロスプラットフォームに対応しています。どうしてもという方はTwitterで声をかけてください。
+
 ## Q: ライセンスどうなってる？
 A: 自由に制作に使用して下さい。プラグイン自体の再配布は勘弁してください。
 
 ## Q: 不具合報告と要望はどこに？
-A: 要望は私のTwitterへ投げ込んでください。[https://twitter.com/longlongLococo](https://twitter.com/longlongLococo)
+A: 要望は私のTwitterへ投げ込んどいてください。[https://twitter.com/longlongLococo](https://twitter.com/longlongLococo)
